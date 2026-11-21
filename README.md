@@ -28,3 +28,6 @@ attached.
 
 Homestead BIM is free software under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), with a
 commercial licence for firms that need one.
+
+The source code of each version is on its release as `homestead-X.Y.Z-source.zip`, with the third-party notices
+(`THIRD_PARTY_NOTICES.md`).
