@@ -1,6 +1,6 @@
 # Homestead BIM
 
-Homestead BIM is a building design (BIM) tool by Bhururu (Pvt) Ltd, Zimbabwe, part of the Zezuru family
+Homestead BIM is a building design (BIM) tool by Zezuru
 ([zezuru.digital](https://zezuru.digital)). Draw walls, doors, windows, roofs, stairs and rooms on a level plan and see
 the same model in 3D, in elevations and sections, in schedules and on sheets.
 
